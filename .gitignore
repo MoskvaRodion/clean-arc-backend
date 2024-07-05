@@ -24,3 +24,14 @@ hs_err_pid*
 replay_pid*
 .idea
 infrascructure/volumes/mongodb_container/data
+clean-arc-api/.flattened-pom.xml
+clean-arc-domain/.flattened-pom.xml
+clean-arc-application/.flattened-pom.xml
+clean-arc-mongo/.flattened-pom.xml
+clean-arc-scheduler/.flattened-pom.xml
+.flattened-pom.xml
+clean-arc-api/target
+clean-arc-scheduler/target
+clean-arc-mongo/target
+clean-arc-domain/target
+clean-arc-application/target
